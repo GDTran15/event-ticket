@@ -1,0 +1,8 @@
+target/
+.env
+.maven/
+.docker-local/
+.idea/
+.vscode/
+*.iml
+.DS_Store
