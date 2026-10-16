@@ -39,7 +39,7 @@ class SecurityConfigTest {
 
     @BeforeEach
     void setUp() {
-        converter = new SecurityConfig().jwtAuthenticationConverter(users);
+     //   converter = new SecurityConfig().jwtAuthenticationConverter(users);
     }
 
     @Test

@@ -2,7 +2,7 @@ package com.duong.eventhub;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.duong.eventhub.auth.JwtService;
+import com.duong.eventhub.security.JwtService;
 import com.duong.eventhub.event.EventRepository;
 import com.duong.eventhub.event.EventStatus;
 import com.duong.eventhub.ticket.TicketTypeRepository;
